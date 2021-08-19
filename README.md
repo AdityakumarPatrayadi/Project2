@@ -12,6 +12,8 @@ We build a simple application that reads online streams from Twitter using Pytho
 
 - Apache Spark
 - Git + GitHub
+- pySpark
+- Python
 
 # Problem Statement
 
