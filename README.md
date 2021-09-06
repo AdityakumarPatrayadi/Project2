@@ -15,6 +15,13 @@ We build a simple application that reads online streams from Twitter using Pytho
 - pySpark
 - Python
 
+## FEATURES
+
+1. Process the downloaded data analyze the data.
+2. Find, organize, and format Historical Data of any particular user.
+3. Having a developer API Account of Twitter that helps in Direct Authentication to Live Data
+4. Filter out the Hashtag from live as well as historical Data.
+
 ## Problem Statement
 
 - Retrieving the trending hashtags of a famous personality.
@@ -36,6 +43,10 @@ Here list the people who have contributed to this project.
  - Suresh Mallakunta
  - Aditya Kumar P
 
-## Reference links
+## Reference 
 
-https://www.kaggle.com/vidyapb/elon-musk-tweets-2015-to-2020/version/1
+* https://www.followersanalysis.com/
+* https://api.twitter.com/2/users/:id/likes
+* https://www.geeksforgeeks.org/python-status-object-in-tweepy/
+* https://developer.twitter.com/en/docs/tutorials/getting-historical-tweets-using-the-full-archive-search-endpoint
+* https://www.kaggle.com/vidyapb/elon-musk-tweets-2015-to-2020/version/1
