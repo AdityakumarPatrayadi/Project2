@@ -30,11 +30,11 @@ We build a simple application that reads online streams from Twitter using Pytho
 ## Contributors
 
 Here list the people who have contributed to this project.
-
-> Hemanth Soma
-> Jayshree C S
-> Suresh Mallakunta
-> Aditya Kumar P
+ 
+ - Hemanth Soma
+ - Jayshree C S
+ - Suresh Mallakunta
+ - Aditya Kumar P
 
 ## Reference links
 
