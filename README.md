@@ -8,21 +8,34 @@ One of the main sources of data today are social networks.We worked on dealing, 
 
 We build a simple application that reads online streams from Twitter using Python, then processes the tweets using Apache Spark Streaming to identify hashtags and, finally, returns top trending hashtags and represents this data in real-time.We also worked on historical data and made analatical insights on it.
 
-# Technologies used
+## Technologies used
 
 - Apache Spark
 - Git + GitHub
 - pySpark
 - Python
 
-# Problem Statement
+## Problem Statement
 
 - Retrieving the trending hashtags of a famous personality.
 - Analyzing the real time streaming tweets on famous personality.
 - Retrieving the information of a person who retweeted on a particular hashtag.
 - Historical Data Analysis on Twitter Data.
 
-# API & Required Modules
+## API & Required Modules
 
 - Twitter API - for Building Apps and analyzing on twitter streaming & historical data
 - Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python.
+
+## Contributors
+
+Here list the people who have contributed to this project.
+
+> Hemanth Soma
+> Jayshree C S
+> Suresh Mallakunta
+> Aditya Kumar P
+
+## Reference links
+
+https://www.kaggle.com/vidyapb/elon-musk-tweets-2015-to-2020/version/1
